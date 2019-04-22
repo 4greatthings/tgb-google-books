@@ -7,3 +7,4 @@ export default class Book extends Component {
     )
   }
 }
+
